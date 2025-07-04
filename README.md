@@ -11,3 +11,5 @@ effectiveness. Through this approach, the project not only enhances
 understanding of the city's safety concerns but also enables data-driven 
 storytelling for stakeholders in policy, law enforcement, and urban 
 development.
+
+Dashboard link: https://public.tableau.com/views/ChicagoCrimeDashboard_17441311944260/HomePage?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
